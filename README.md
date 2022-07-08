@@ -67,7 +67,7 @@ Ethereum
 
 
 
-**3 Machine Learning Models**:
+**4 Machine Learning Models**:
 AutoTS - Automated Time Series Forecasting
 Kats - Kits to Analyze Time Series
 Tsfresh - Automated feature extraction and selection library for time series data
