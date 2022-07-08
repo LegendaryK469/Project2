@@ -1,6 +1,6 @@
 Ethereum Price Predictor
 
-### This tool runs future price predictions of Ethereum through muliple machine-learning model types and time periods.The intent of this tool is to help the user predict up trends and downtrends in the market or to DCA (Dollar Cost Averaging).  It's also a guide to help predict maximum returns for 2022.
+### This tool runs future price predictions of Ethereum through multiple machine-learning model types and time periods.The intent of this tool is to help the user predict up trends and downtrends in the market or to DCA (Dollar Cost Averaging).  It's also a guide to help predict maximum returns for 2022.
 
 The main research question we wanted to explore was what is the optimal machine learning model to predict Ethereum prices in the near future.
 
