@@ -79,6 +79,9 @@ The following are four files in our package:
 
 - Long_or_Short_Ethereum: this program was used for indicator to short or go long on Ethereum.  -1 was to short and 1 was to go long.  Result was to go long on Ethereum
 
+![Ethereum Current Trend Analysis Chart](Images/Ethereum_LongorShort.png)
+
+
 - KATS_Ethereum_Predictor: this ML model predicted Ethereum prices on the first of every month in the near future.
 
 - Ethereum_Price_Prediction: this is the main file to predict 5 days into the future for Ethereum.
@@ -90,36 +93,25 @@ The following are four files in our package:
 
 ![Ethereum History Chart](Images/ETH_Chart1.png)
 ![Ethereum Current Trend Analysis Chart](Images/Ethereum2022_TA.03_PM.png)
+![Ethereum Current Trend Analysis Chart](Images/Ethereum_LongorShortChart1.png)
+![Ethereum Current Trend Analysis Chart](Images/Ethereum_LongorShortChart2.png)
+
 
 
 
 AutoTs results :
 
-   Close
-2022-07-07  1128.876266
-2022-07-08  1114.863544
-2022-07-09  1107.717030
-2022-07-10  1106.378852
-2022-07-11  1123.656916
+![Ethereum AutoTS Result](Images/Ethereum_AutoTS.png)
 
 2022-07-07 1253.13 According to CoinMarketCap
 
 TSFresh :
 
-22016  (id, 1699)  1694  1067.298828  Close
-22017  (id, 1699)  1695  1059.767334  Close
-22018  (id, 1699)  1696  1066.512817  Close
-22019  (id, 1699)  1697  1073.766968  Close
-22020  (id, 1699)  1698  1151.059082  Close
+![Ethereum TSfresh Result](Images/Ethereum_TSfresh.png)
 
 KATS :
 
-time	fcst	fcst_lower	fcst_upper
-0	2022-08-01	1369.901032	1141.943501	1602.871967
-1	2022-09-01	1805.033719	1539.910199	2064.603615
-2	2022-10-01	1563.125915	1279.441035	1835.865579
-3	2022-11-01	2096.685211	1697.451780	2504.906586
-4	2022-12-01	1896.359120	1393.069335	2463.877621
+![Ethereum KATS Result](Images/Ethereum_KATS.png)
 
 
 ## Conclusion
